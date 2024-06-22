@@ -1,0 +1,22 @@
+h1 {
+    background-color: white;
+    font: 40px;
+    border: double;
+    border-color: black;
+  }
+
+  h3 {
+    background-color: white;
+    font: 40px;
+    border: double;
+    border-color: black;
+  }
+
+  body {
+    font-style: oblique;
+    background-color: azure;
+    border: black;
+    background-image: url(image.jpg);
+    mask-repeat: no-repeat;
+    background-size: cover;
+  }
